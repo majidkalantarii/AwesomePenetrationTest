@@ -270,8 +270,8 @@ A collection of awesome penetration testing resources
 * [Awesome Awesomness](https://github.com/bayandin/awesome-awesomeness) - The List of the Lists
 
 
-### Contribution
-Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕)
+### Telegram
+T.me/Sagheb
 
 ### License
 
